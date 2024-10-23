@@ -1,0 +1,211 @@
+body{
+    width: 1440px;
+    overflow-x: hidden;
+}
+::-webkit-scrollbar{
+    width: 0;
+}
+h1, h2, blockquote, p{
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+h1{
+    font-size: 190px;
+    font-weight: 500;
+    text-align: center;
+    margin-left: 10px;
+}
+h2{
+    font-size: 64px;
+    font-weight: bold;
+    line-height: 90px;
+}
+blockquote{
+    font-style: italic;
+    font-size: 48px;
+    margin: 100px 0px 100px 0px;
+}
+p{
+    font-size: 24px;
+}
+img{
+    margin-left: 20px;
+}
+hr {
+    border: 2px solid black;
+    margin-left: 20px;
+}
+#top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 20px;
+}
+#description{
+    display: flex;
+    margin: 30px 0px 0px 20px;
+}
+.first{
+    width: 650px;
+    height: 700px;
+}
+.dgadga{
+    display: block;
+    position: relative;
+    margin: unset;
+    margin-left: -25px;
+    width: 1440px;
+    height: 1500px;
+}
+/* #latin{ 
+    position: relative;
+    margin-top: -1500px;
+    color: brown;
+    margin-left: 20px;
+
+.alphabeta{
+   font-size: 60px;
+   line-height: 90px;
+   letter-spacing: 5px;
+}
+#cyrillic{
+    position: relative;
+    margin-top: 20px;
+    margin-left: 498px;
+    color: brown;
+}
+.alphabetb{
+   font-size: 60px;
+   line-height: 90px;
+   letter-spacing: 5px;
+   word-spacing: 10px;
+}
+#typeface{
+    position: relative;
+    margin: 20px 0px 50px 20px;
+    color: brown;
+}
+.dis{
+    display: flex;
+}
+.typeface{
+    font-size: 60px;
+   line-height: 90px;
+   letter-spacing: 5px;
+}}*/
+#gap{
+    margin-left: 50px;
+}
+#Glyph{
+    display: flex;
+}
+#Glyph h2{
+    margin-left: 50px;
+}
+#Glyph p{
+   font-size: 60px;
+   line-height: 90px;
+   letter-spacing: 5px;
+   margin-left: 50px;
+}
+.texta{
+    width: 700px;
+    position: relative;
+    margin-top: -200px;
+    margin-left: 730px;
+}
+.news{
+    margin: 50px 0px 50px 0px;
+}
+.textb{
+    width: 700px;
+    position: relative;
+    margin-top: 0px;
+    margin-left: 20px;
+}
+.stroke{
+    margin: 50px 0px 50px 0px;
+}
+.lefttoptext{
+    position: relative;
+    margin-top: -750px;
+    margin-left: 370px;
+}
+.leftbottext{
+    position: relative;
+    margin-top: 350px;
+    margin-left: 400px;
+}
+.righttoptext{
+    position: relative;
+    margin-top: -450px;
+    margin-left: 1200px;
+}
+.rightbottext{
+    position: relative;
+    margin-top: 370px;
+    margin-left: 1100px;
+}
+#IP{
+    margin: 350px 0px 50px 0px;
+}
+.middle{
+    width: 350px;
+    position: relative;
+    margin-top: -600px;
+    margin-left: 400px;
+}
+#history{
+    margin-top: 500px;
+    display: flex;
+}
+.history{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+.Ligature{
+    margin: 50px 0px 50px 20px;
+    width: 1450px;
+}
+.italic{
+    font-size: 150px;
+    font-style: italic;
+    width: 10000px;
+}
+.MediumItalic{
+    font-size: 150px;
+    font-style: italic;
+    font-weight: 500;
+    width: 10000px;
+    margin-left: -130px;
+}
+.BoldItalic{
+    font-size: 150px;
+    font-style: italic;
+    font-weight: 700;
+    width: 10000px;
+    margin-left: -270px;
+    margin-bottom: 50px;
+}
+#fofo{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.footer{
+    margin-top: -50px;
+    font-size: 800px;
+}
+button{
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-size: 46px;
+    color: rgb(255, 255, 255);
+    background-color: black;
+    margin-top: 250px;
+    width: 400px;
+    height: 100px;
+    line-height: 90px;
+}
